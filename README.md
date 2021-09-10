@@ -10,7 +10,7 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 <h3> Preview - </h3>
-![Desktop preview](https://github.com/pallavi-gurram/Personal-Portfolio/blob/main/Preview/Desktop%20preview.png)
+![Desktop preview](https://github.com/pallavi-gurram/Personal-Portfolio/Preview/Desktop preview.png)
 ![Mobile preview](https://github.com/pallavi-gurram/Personal-Portfolio/blob/main/Preview/Mobile%20Preview.png)
 ![Mobile preview](https://github.com/pallavi-gurram/Personal-Portfolio/blob/main/Preview/Mobile%20Preview2.png)
 ![About preview](https://github.com/pallavi-gurram/Personal-Portfolio/blob/main/Preview/about.png)
